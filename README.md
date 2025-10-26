@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! I'am Samuel Lacerda, Developer Python beginner!</h2>
+<h2 align="left">Hello World👋! I am Samuel Lacerda, Python Developer beginner!</h2>
 
 ###
 
@@ -39,3 +39,4 @@
 
 
 ###
+
